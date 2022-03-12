@@ -14,7 +14,7 @@ class Header extends HTMLElement {
         <div class="collapse navbar-collapse justify content between" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
             <li class="nav-item">
-                <a style="color:white" class="nav-link" href="/world-cup">Match Locations</a> 
+                <a style="color:white" class="nav-link" href="https://samuelroiz.github.io/FTB_worldcup/">Match Locations</a> 
             </li>
         
             <li class="nav-item">
